@@ -1,0 +1,33 @@
+#Creating a virtual linux environment in windows 10
+https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-windows-10/
+
+#Creating virtual environment without linux...Tough style...
+https://docs.python.org/3/library/venv.html
+
+#Installing pip and other packages using pip...Best technical guide...
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+##After completing above steps....I recommend using virtual linux over any other...
+
+1.For speech_recognition module...
+    pip install SpeechRecognition
+
+2.For playsound module...
+    pip install playsound
+
+3.For gtts module...
+    pip install gTTS
+
+4.For wolframalpha module...
+    pip install wolframalpha
+
+5.For selenium python bindings...
+    pip install -U selenium
+
+#Best to create virtual environment for this project, since many of the packages are not maintained anymore...
+For further guide in installation and use of each topic please refer to the following links...
+1.https://pypi.org/project/SpeechRecognition/
+2.https://pypi.org/project/playsound/
+3.https://pypi.org/project/gTTS/
+4.https://pypi.org/project/wolframalpha/
+5.https://pypi.org/project/selenium/
